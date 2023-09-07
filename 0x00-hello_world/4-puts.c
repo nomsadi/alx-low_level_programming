@@ -1,3 +1,4 @@
+#include <stdio.n>
 /**
  * main - A programthat prints a line with puts function
  * Return: 0
